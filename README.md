@@ -1,3 +1,6 @@
-# convertDecimalNumber
-# Python program to convert decimal number 
-# into binary, octal and hexadecimal number system
+# Python program to convert decimal number into:
+
+
+1. binary
+2. octal
+3. hexadecimal
